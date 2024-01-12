@@ -1,4 +1,4 @@
-![image](https://github.com/Rachid-Boutahir/LabXpert/assets/153306419/d2c3674d-bce3-40aa-9082-fb31e2740c64)# Aperçu de LabXpert:
+# Aperçu de LabXpert:
 Le laboratoire LabXpert aspire à instaurer un système de gestion intégral afin d'optimiser l'ensemble de ses processus. L'objectif principal est d'accroître l'efficacité et la précision dans les resultat de prélèvement . Le système doit englober divers aspects de la gestion, de la surveillance des essais analytique à la gestion des données résultantes. L'adoption de ce système facilitera à LabXpert la fourniture de services plus rapides et plus précis, contribuant ainsi à l'avancement de la recherche scientifique et médicale.
 
 ## Fonctionnalités:
