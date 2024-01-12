@@ -19,5 +19,5 @@ Le laboratoire LabXpert aspire à instaurer un système de gestion intégral afi
 8. **Rapports Statistiques :**
    - Génération de rapports statistiques pour évaluer les performances du laboratoire, identifier les tendances et prendre des décisions basées sur les données.
 ## Diagramme UML :
--Diagramme use cas: ![Use case LabXpert](https://github.com/)
+-Diagramme use cas: ![Use case LabXpert](https://raw.githubusercontent.com/Rachid-Boutahir/LabXpert/main/Use%20cas%20LabXpert%20.jpg)
 -Diagramme de class :![class LabXpert](https://github.com/)
